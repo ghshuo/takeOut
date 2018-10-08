@@ -1,0 +1,2 @@
+https://github.com/pagekit/vue-resource  
+https://github.com/ustbhuangyi/better-scroll  滚动条插件
